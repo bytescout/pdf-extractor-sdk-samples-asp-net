@@ -1,0 +1,110 @@
+## Index of source code examples
+
+
+\Batch Processing
+\Extract Attachments
+\Extract Images
+\Extract Text
+\Extract Text By Columns
+\Extract Text From Page Area
+\Find Text
+\Find Text With Hyphens
+\Get Document Information
+\Make PDF Unsearchable
+\OCR (Optical Character Recognition)
+\ZUGFeRD Invoice Extraction
+\_Web API
+\_Web API\PDF Information
+\_Web API\PDF Make Searchable
+\_Web API\PDF Merging
+\_Web API\PDF Optimization
+\_Web API\PDF Splitting
+\_Web API\PDF To CSV
+\_Web API\PDF To Excel
+\_Web API\PDF To JSON
+\_Web API\PDF To Text
+\_Web API\PDF To XML
+\_Web API\PDF Information\C#
+\_Web API\PDF Information\VB.NET
+\_Web API\PDF Information\C#\Get PDF Info From Uploaded File
+\_Web API\PDF Information\C#\Get PDF Info From URL
+\_Web API\PDF Information\VB.NET\Get PDF Info From Uploaded File
+\_Web API\PDF Information\VB.NET\Get PDF Info From URL
+\_Web API\PDF Make Searchable\C#
+\_Web API\PDF Make Searchable\VB.NET
+\_Web API\PDF Make Searchable\C#\Make Searchable PDF From Uploaded File
+\_Web API\PDF Make Searchable\C#\Make Searchable PDF From URL
+\_Web API\PDF Make Searchable\C#\Make Searchable PDF From URL Asynchronously
+\_Web API\PDF Make Searchable\VB.NET\Make Searchable PDF From Uploaded File
+\_Web API\PDF Make Searchable\VB.NET\Make Searchable PDF From URL
+\_Web API\PDF Make Searchable\VB.NET\Make Searchable PDF From URL Asynchronously
+\_Web API\PDF Merging\C#
+\_Web API\PDF Merging\VB.NET
+\_Web API\PDF Merging\C#\Merge PDF Documents From Uploaded Files
+\_Web API\PDF Merging\C#\Merge PDF Documents From URLs
+\_Web API\PDF Merging\C#\Merge PDF Documents From URLs Asynchronously
+\_Web API\PDF Merging\VB.NET\Merge PDF Documents From Uploaded Files
+\_Web API\PDF Merging\VB.NET\Merge PDF Documents From URLs
+\_Web API\PDF Merging\VB.NET\Merge PDF Documents From URLs Asynchronously
+\_Web API\PDF Optimization\C#
+\_Web API\PDF Optimization\VB.NET
+\_Web API\PDF Optimization\C#\Optimize PDF From Uploaded File
+\_Web API\PDF Optimization\C#\Optimize PDF From URL
+\_Web API\PDF Optimization\C#\Optimize PDF From URL Asynchronously
+\_Web API\PDF Optimization\VB.NET\Optimize PDF From Uploaded File
+\_Web API\PDF Optimization\VB.NET\Optimize PDF From URL
+\_Web API\PDF Optimization\VB.NET\Optimize PDF From URL Asynchronously
+\_Web API\PDF Splitting\C#
+\_Web API\PDF Splitting\VB.NET
+\_Web API\PDF Splitting\C#\Split PDF From Uploaded File
+\_Web API\PDF Splitting\C#\Split PDF From URL
+\_Web API\PDF Splitting\C#\Split PDF From URL Asynchronously
+\_Web API\PDF Splitting\VB.NET\Split PDF From Uploaded File
+\_Web API\PDF Splitting\VB.NET\Split PDF From URL
+\_Web API\PDF Splitting\VB.NET\Split PDF From URL Asynchronously
+\_Web API\PDF To CSV\C#
+\_Web API\PDF To CSV\VB.NET
+\_Web API\PDF To CSV\C#\Convert PDF To CSV From Uploaded File
+\_Web API\PDF To CSV\C#\Convert PDF To CSV From URL
+\_Web API\PDF To CSV\C#\Convert PDF To CSV From URL Asynchronously
+\_Web API\PDF To CSV\VB.NET\Convert PDF To CSV From Uploaded File
+\_Web API\PDF To CSV\VB.NET\Convert PDF To CSV From URL
+\_Web API\PDF To CSV\VB.NET\Convert PDF To CSV From URL Asynchronously
+\_Web API\PDF To Excel\C#
+\_Web API\PDF To Excel\VB.NET
+\_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\C#\Convert PDF To XLS From URL
+\_Web API\PDF To Excel\C#\Convert PDF To XLS From URL Asynchronously
+\_Web API\PDF To Excel\C#\Convert PDF To XLSX From Uploaded File
+\_Web API\PDF To Excel\C#\Convert PDF To XLSX From URL
+\_Web API\PDF To Excel\C#\Convert PDF To XLSX From URL Asynchronously
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL Asynchronously
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From Uploaded File
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From URL
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From URL Asynchronously
+\_Web API\PDF To JSON\C#
+\_Web API\PDF To JSON\VB.NET
+\_Web API\PDF To JSON\C#\Convert PDF To JSON From Uploaded File
+\_Web API\PDF To JSON\C#\Convert PDF To JSON From URL
+\_Web API\PDF To JSON\C#\Convert PDF To JSON From URL Asynchronously
+\_Web API\PDF To JSON\VB.NET\Convert PDF To JSON From Uploaded File
+\_Web API\PDF To JSON\VB.NET\Convert PDF To JSON From URL
+\_Web API\PDF To JSON\VB.NET\Convert PDF To JSON From URL Asynchronously
+\_Web API\PDF To Text\C#
+\_Web API\PDF To Text\VB.NET
+\_Web API\PDF To Text\C#\Convert PDF To Text From Uploaded File
+\_Web API\PDF To Text\C#\Convert PDF To Text From URL
+\_Web API\PDF To Text\C#\Convert PDF To Text From URL Asynchronously
+\_Web API\PDF To Text\VB.NET\Convert PDF To Text From Uploaded File
+\_Web API\PDF To Text\VB.NET\Convert PDF To Text From URL
+\_Web API\PDF To Text\VB.NET\Convert PDF To Text From URL Asynchronously
+\_Web API\PDF To XML\C#
+\_Web API\PDF To XML\VB.NET
+\_Web API\PDF To XML\C#\Convert PDF To XML From Uploaded File
+\_Web API\PDF To XML\C#\Convert PDF To XML From URL
+\_Web API\PDF To XML\C#\Convert PDF To XML From URL Asynchronously
+\_Web API\PDF To XML\VB.NET\Convert PDF To XML From Uploaded File
+\_Web API\PDF To XML\VB.NET\Convert PDF To XML From URL
+\_Web API\PDF To XML\VB.NET\Convert PDF To XML From URL Asynchronously
