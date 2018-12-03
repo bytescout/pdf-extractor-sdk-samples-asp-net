@@ -73,12 +73,14 @@
 \_Web API\PDF To Excel\VB.NET
 \_Web API\PDF To Excel\C#\Advanced Conversion Options
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\C#\Convert PDF To XLS From Uploaded File (WinForms)
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\C#\Convert PDF To XLS From URL Asynchronously
 \_Web API\PDF To Excel\C#\Convert PDF To XLSX From Uploaded File
 \_Web API\PDF To Excel\C#\Convert PDF To XLSX From URL
 \_Web API\PDF To Excel\C#\Convert PDF To XLSX From URL Asynchronously
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File
+\_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From Uploaded File (WinForms)
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLS From URL Asynchronously
 \_Web API\PDF To Excel\VB.NET\Convert PDF To XLSX From Uploaded File
